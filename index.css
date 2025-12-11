@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(rgb(224, 210, 210), green, blue);
+    color: #7f6161;
+    font-family: Lato, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
+
+.grouping   {
+    list-style: none;
+    display: block;
+}
